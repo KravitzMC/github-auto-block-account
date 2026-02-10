@@ -10,12 +10,23 @@ Someone use spam anime profile bot for follow to your account in Github profile.
 
 ## Usage
 
-1. first clone repository:
+1. First clone repository:
 
 ```bash
 git clone https://github.com/KravitzMC/github-auto-block-account.git
 ```
 
+
+2. Create access tokens at : [https://github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens/new)
+
+Follow this step:
+* Token name : <your_token_name>
+* Expiration : No Expiration
+* Repository access : Public repositories
+* Permissions : Block another user (Read-only)
+
+and click generate token
+  
 
 
 
