@@ -54,7 +54,7 @@ and click generate token
 ### 3. Update configuration access token and save
 
 ```bash
-config.json5
+nano config.json5
 ```
 
 ###  5. Run the script 🏃
