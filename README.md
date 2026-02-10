@@ -8,7 +8,14 @@ Someone use spam anime profile bot for follow to your account in Github profile.
    <img style="margin: 0 auto; padding-bottom: 15px; padding-top: 30px" width=70%" src="https://github.com/KravitzMC/github-auto-block-account/blob/main/dirtyfollow.png">
 </div>
 
-## Usage 
+## Usage
+
+1. first clone repository:
+
+```bash
+git clone https://github.com/KravitzMC/github-auto-block-account.git
+```
+
 
 
 
