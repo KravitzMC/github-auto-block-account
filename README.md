@@ -35,7 +35,7 @@ source .venv/bin/activate
 .venv\Scripts\activate.bat
 ```
 
-### 3. Install Dependenies
+### 3. Install Dependencies
 
 ```bash
 uv pip install -r requirements.txt
