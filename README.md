@@ -1,1 +1,1 @@
-# Anti Anime Profile Bot
+# Github Auto Block Account
