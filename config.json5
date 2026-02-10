@@ -1,7 +1,8 @@
 {    
     //Github API plese Visit : https://github.com/settings/personal-access-tokens to generate a token
     
-    Token: "<insert_your_token_here>",
+    Token: "<your_github_token>",
     Keyword: "GIVE ME STARS TO MY REPOSITORIES AND BACK TO YOUR REPOSITORIES"
 
 }
+
