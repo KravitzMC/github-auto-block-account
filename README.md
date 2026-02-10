@@ -63,6 +63,10 @@ config.json5
 uv run main.py
 ```
 
+### Note 
+
+You can running  via ```bash crontab -e``` in Linux Shell and set up the Cron Jobs on your required time. Cron Job will execute automatically. 
+
 ### Contributing
 
 If you would like to support the project, pull requests are welcome.
