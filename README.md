@@ -24,6 +24,9 @@ cd github-auto-block-account
 # Install uv if you don't have it
 pip install uv
 
+#install python 3.11 inside eviroment
+uv python install 3.11
+
 # create an venv with python 3.11
 uv venv --python 3.11
 
