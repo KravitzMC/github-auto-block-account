@@ -44,10 +44,10 @@ uv pip install -r requirements.txt
 ### 2. Create access tokens at : [https://github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens/new)
 
 Follow this step:
-* Token name : <your_token_name>
-* Expiration : No Expiration
-* Repository access : Public repositories
-* Permissions : Add → Block another user (Read-only)
+* <b>Token name :</b> <your_token_name>
+* <b>Expiration :</b> No Expiration
+* <b>Repository access :</b> Public repositories
+* <b>Permissions :</b> Add → Block another user (Read-only)
 
 and click generate token
 
