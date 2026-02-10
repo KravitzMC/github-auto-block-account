@@ -61,6 +61,10 @@ config.json5
  ```bash
 uv run main.py
 ```
+
+### Contributing
+
+If you would like to support the project, pull requests are welcome.
   
 
 
