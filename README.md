@@ -34,9 +34,11 @@ source .venv/bin/activate
 .venv\Scripts\activate.bat
 ```
 
+### 3. Install Dependenies
 
-
-
+```bash
+uv pip install -r requirements.txt
+```
 
 ### 2. Create access tokens at : [https://github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens/new)
 
@@ -44,7 +46,7 @@ Follow this step:
 * Token name : <your_token_name>
 * Expiration : No Expiration
 * Repository access : Public repositories
-* Permissions : Block another user (Read-only)
+* Permissions : Add --> Block another user (Read-only)
 
 and click generate token
 
@@ -53,10 +55,12 @@ and click generate token
 ```bash
 config.json5
 ```
-### 4. Update configuration access token and save
 
-### 🏃 Run the script
- 
+###  5. Run the script 🏃
+
+ ```bash
+uv run main.py
+```
   
 
 
