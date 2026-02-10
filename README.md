@@ -49,7 +49,7 @@ Follow this step:
 * <b>Repository access :</b> Public repositories
 * <b>Permissions :</b> Add → Block another user (Read-only)
 
-and click generate token
+.. And click generate token
 
 ### 3. Update configuration access token and save
 
