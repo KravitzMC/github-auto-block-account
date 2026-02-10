@@ -14,7 +14,7 @@ Someone use spam anime profile bot for follow to your account in Github profile.
 
 ```bash
 git clone https://github.com/KravitzMC/github-auto-block-account.git
-cd github-auto-block-account.git
+cd github-auto-block-account
 ```
 
 ### 2. Setup Virtual Enviroment
