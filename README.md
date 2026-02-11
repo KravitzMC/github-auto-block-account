@@ -3,7 +3,7 @@
 ##  Why auto block account ❔
 
 When you see this bio → <b>"GIVE ME STARS TO MY REPOSITORIES AND BACK TO YOUR REPOSITORIES"</b>
-because someone use spam anime profile bot follow to your account in Github profile. that it's make your profile follow list like dirty and disturbing. That's major problem GitHub can't resolve for a long time. which is why I developed this tool.
+because someone use spam anime profile bot follow to your account in Github profile. that it's make your profile follow list look dirty and disturbing. That's major problem GitHub can't resolve for a long time. which is why I developed this tool.
 
 <div align="center">
    <img style="margin: 0 auto; padding-bottom: 15px; padding-top: 30px" width=70%" src="https://github.com/KravitzMC/github-auto-block-account/blob/main/dirtyfollow.png">
