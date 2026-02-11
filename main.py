@@ -54,7 +54,8 @@ for u in followers:
         response = requests.put(f"https://api.github.com/user/blocks/{u['login']}", headers=headers)
 
         if response.status_code == 204:            
-            print(f"found account : {data['login']} reason → {data.get('bio')}  -----> Blocked")      
+            print(f"found account : {data['login']} reason → {data.get('bio')}  [Action] --> Blocked")      
 
 
 print(f"Done !!!")
+
