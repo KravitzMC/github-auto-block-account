@@ -67,9 +67,9 @@ nano config.json5
 uv run main.py
 ```
 
-### 🟡 Note 
+### Note 
 
-You can use ```sudo crontab -e``` in Linux Shell and set up the Cron Jobs on your required time. Cron Job will execute automatically like task scheduler app. 
+* You can use ```sudo crontab -e``` in Linux Shell and set up the Cron Jobs on your required time. Cron Job will execute automatically like task scheduler app. 
 
 ### Contributing
 
