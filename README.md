@@ -1,4 +1,4 @@
-# 🛡️ Github Auto Block Spam Account
+# 🛡️ Github Auto Block Spam Follow Account
 
 ##  Why auto block account ❔
 
