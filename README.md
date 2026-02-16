@@ -69,7 +69,7 @@ uv run main.py
 
 ### Note 
 
-* You can use ```sudo crontab -e``` in Linux Shell and set up the Cron Jobs on your required time. Cron Job will execute automatically like task scheduler app. 
+* For running on Server/VPS you can use ```sudo crontab -e``` in Linux Shell and set up the Cron Jobs on your required time. Cron Job will execute automatically like task scheduler app. 
 
 ### Contributing
 
