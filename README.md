@@ -51,7 +51,7 @@ Follow this step:
 * <b>Token name :</b> <your_token_name>
 * <b>Expiration :</b> No Expiration
 * <b>Repository access :</b> Public repositories
-* <b>Permissions :</b> Add → Block another user (Read-only)
+* <b>Permissions :</b> Add → Block another user (Read+Write)
 
 .. And click generate token
 
